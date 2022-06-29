@@ -1,0 +1,21 @@
+{
+    "repos": [
+        "https://thenetsky.github.io/extensions-buddycomplex/0.6",
+        "https://thenetsky.github.io/netskys-extensions/0.6-nsfw",
+        "https://thenetsky.github.io/extensions-mangastream/0.6",
+        "https://thenetsky.github.io/extensions-buddycomplex/0.6",
+        "https://thenetsky.github.io/extensions-sources/primary",
+        "https://thenetsky.github.io/extensions-sources/nsfw",
+        "https://thenetsky.github.io/extensions-generic/madara",
+        "https://thenetsky.github.io/extensions-generic/mangabox",
+        "https://thenetsky.github.io/extensions-generic/nepnep",
+        "https://thenetsky.github.io/extensions-generic/guya",
+        "https://thenetsky.github.io/extensions-generic/genkan",
+        "https://pandeynmn.github.io/extensions-foreign/main",
+        "https://pandeynmn.github.io/extensions-foreign/ninemanga",
+        "https://gamefuzzy.github.io/extensions-gamefuzzy/main",
+        "https://xonlyfadi.github.io/h-extensions",
+        "https://pandeynmn.github.io/nmns-extensions/main",
+        "https://xonlyfadi.github.io/xonlyfadi-extensions"
+    ]
+}
