@@ -1,22 +1,76 @@
 {
     "repos": [
-        "https://thenetsky.github.io/extensions-buddycomplex/0.6",
-        "https://thenetsky.github.io/netskys-extensions/0.6-nsfw",
-        "https://thenetsky.github.io/extensions-mangastream/0.6",
-        "https://thenetsky.github.io/extensions-buddycomplex/0.6",
-        "https://thenetsky.github.io/extensions-sources/primary",
-        "https://thenetsky.github.io/extensions-sources/nsfw",
-        "https://thenetsky.github.io/extensions-generic/madara",
-        "https://thenetsky.github.io/extensions-generic/mangabox",
-        "https://thenetsky.github.io/extensions-generic/nepnep",
-        "https://thenetsky.github.io/extensions-generic/guya",
-        "https://thenetsky.github.io/extensions-generic/genkan",
-        "https://thenetsky.github.io/extensions-generic/bentai",
-        "https://pandeynmn.github.io/extensions-foreign/main",
-        "https://pandeynmn.github.io/extensions-foreign/ninemanga",
-        "https://pandeynmn.github.io/nmns-extensions/main",
-        "https://gamefuzzy.github.io/extensions-gamefuzzy/main",
-        "https://xonlyfadi.github.io/h-extensions",
-        "https://xonlyfadi.github.io/xonlyfadi-extensions"
+        {
+            "url": "https://thenetsky.github.io/extensions-buddycomplex/0.6",
+            "name": "BuddyComplex Extensions (0.6)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-mangastream/0.6",
+            "name": "MangaStream Extensions (0.6)"
+        },
+        {
+            "url": "https://thenetsky.github.io/netskys-extensions/0.6",
+            "name": "Netsky's Extensions (0.6)"
+        },
+        {
+            "url": "https://thenetsky.github.io/netskys-extensions/0.6-nsfw",
+            "name": "Netsky's NSFW Extensions (0.6)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-sources/primary",
+            "name": "Extensions Primary (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-sources/nsfw",
+            "name": "Extensions NSFW (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/madara",
+            "name": "Extensions Madara (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/mangabox",
+            "name": "Extensions MangaBox (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/nepnep",
+            "name": "Extensions NepNep (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/guya",
+            "name": "Extensions Guya (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/genkan",
+            "name": "Extensions Genkan (Netsky Fork)"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic/bentai",
+            "name": "Extensions Bentai (Netsky Fork)"
+        },
+        {
+            "url": "https://pandeynmn.github.io/extensions-foreign/main",
+            "name": "NmN's Foreign Extensions"
+        },
+        {
+            "url": "https://pandeynmn.github.io/extensions-foreign/ninemanga",
+            "name": "NineManga Extensions"
+        },
+        {
+            "url": "https://pandeynmn.github.io/nmns-extensions/main",
+            "name": "NmN's Extensions"
+        },
+        {
+            "url": "https://gamefuzzy.github.io/extensions-gamefuzzy/main",
+            "name": "GameFuzzy's Extensions"
+        },
+        {
+            "url": "https://xonlyfadi.github.io/h-extensions",
+            "name": "xOnlyFadi's H-Extensions (0.6)"
+        },
+        {
+            "url": "https://xonlyfadi.github.io/xonlyfadi-extensions",
+            "name": "xOnlyFadi's Extensions (0.6)"
+        }
     ]
 }
