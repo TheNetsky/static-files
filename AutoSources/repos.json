@@ -75,6 +75,10 @@
         {
             "url": "https://rintendou.github.io/tommys-extensions/0.6",
             "name": "Tommy's Extensions (0.6)"
+        },
+        {
+            "url": "https://kolbyml.github.io/kolbymls-extensions/0.6",
+            "name": "Kolby ML's Extensions (0.6)"
         }
     ]
 }
