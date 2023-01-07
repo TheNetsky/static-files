@@ -79,6 +79,10 @@
         {
             "url": "https://kolbyml.github.io/kolbymls-extensions/0.6",
             "name": "Kolby ML's Extensions (0.6)"
+        },
+        {
+            "url": "https://waltersash.github.io/waltersashs-extensions/0.6",
+            "name": "WaltersAsh's Extensions (0.6)"
         }
     ]
 }
