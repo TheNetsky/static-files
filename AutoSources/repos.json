@@ -2,87 +2,103 @@
     "repos": [
         {
             "url": "https://thenetsky.github.io/extensions-buddycomplex/0.6",
-            "name": "BuddyComplex Extensions (0.6)"
+            "name": "BuddyComplex Extensions (0.6)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-mangastream/0.6",
-            "name": "MangaStream Extensions (0.6)"
+            "name": "MangaStream Extensions (0.6)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/netskys-extensions/0.6",
-            "name": "Netsky's Extensions (0.6)"
+            "name": "Netsky's Extensions (0.6)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/netskys-extensions/0.6-nsfw",
-            "name": "Netsky's NSFW Extensions (0.6)"
+            "name": "Netsky's NSFW Extensions (0.6)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-sources/primary",
-            "name": "Extensions Primary (Netsky Fork)"
+            "name": "Extensions Primary (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-sources/nsfw",
-            "name": "Extensions NSFW (Netsky Fork)"
+            "name": "Extensions NSFW (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/madara",
-            "name": "Extensions Madara (Netsky Fork)"
+            "name": "Extensions Madara (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/mangabox",
-            "name": "Extensions MangaBox (Netsky Fork)"
+            "name": "Extensions MangaBox (Netsky Fork)".
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/nepnep",
-            "name": "Extensions NepNep (Netsky Fork)"
+            "name": "Extensions NepNep (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/guya",
-            "name": "Extensions Guya (Netsky Fork)"
+            "name": "Extensions Guya (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/genkan",
-            "name": "Extensions Genkan (Netsky Fork)"
+            "name": "Extensions Genkan (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://thenetsky.github.io/extensions-generic/bentai",
-            "name": "Extensions Bentai (Netsky Fork)"
+            "name": "Extensions Bentai (Netsky Fork)",
+            "devId": 140415255741333504
         },
         {
             "url": "https://pandeynmn.github.io/extensions-foreign/main",
-            "name": "NmN's Foreign Extensions"
+            "name": "NmN's Foreign Extensions",
+            "devId": 432250512117596162
         },
         {
             "url": "https://pandeynmn.github.io/extensions-foreign/ninemanga",
-            "name": "NineManga Extensions"
+            "name": "NineManga Extensions",
+            "devId": 432250512117596162
         },
         {
             "url": "https://pandeynmn.github.io/nmns-extensions/main",
-            "name": "NmN's Extensions"
+            "name": "NmN's Extensions",
+            "devId": 432250512117596162
         },
         {
             "url": "https://gamefuzzy.github.io/extensions-gamefuzzy/main",
-            "name": "GameFuzzy's Extensions"
+            "name": "GameFuzzy's Extensions",
+            "devId": 220941835751784448
         },
         {
             "url": "https://xonlyfadi.github.io/xonlyfadi-extensions/0.6",
-            "name": "xOnlyFadi's Extensions (0.6)"
+            "name": "xOnlyFadi's Extensions (0.6)",
+            "devId": 306781014896803841
         },
         {
             "url": "https://loik9081.github.io/loik-extensions",
-            "name": "Loik Extensions"
-        },
-        {
-            "url": "https://rintendou.github.io/tommys-extensions/0.6",
-            "name": "Tommy's Extensions (0.6)"
+            "name": "Loik Extensions",
+            "devId": 696802233815269397
         },
         {
             "url": "https://kolbyml.github.io/kolbymls-extensions/0.6",
-            "name": "Kolby ML's Extensions (0.6)"
+            "name": "Kolby ML's Extensions (0.6)",
+            "devId": 240180844130598912
         },
         {
             "url": "https://waltersash.github.io/waltersashs-extensions/0.6",
-            "name": "WaltersAsh's Extensions (0.6)"
+            "name": "WaltersAsh's Extensions (0.6)",
+            "devId": 314676378014580737
         }
     ]
 }
