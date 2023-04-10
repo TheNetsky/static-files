@@ -105,10 +105,15 @@
             "name": "Netsky's Extensions (0.8)",
             "devId": "140415255741333504"
         },
-                {
+        {
             "url": "https://thenetsky.github.io/extensions-generic-0.8/madara",
             "name": "Extensions Generic Madara (0.8)",
             "devId": "140415255741333504"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic-0.8/mangabox",
+            "name": "Extensions Generic MangaBox (0.8)",
+            "devId": "98549017893429248"
         }
     ]
 }
