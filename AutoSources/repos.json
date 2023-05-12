@@ -149,6 +149,12 @@
             "name": "xOnlyFadi's Extensions (0.8)",
             "version": "0.8",
             "devId": "306781014896803841"
+        },
+                {
+            "url": "https://thenetsky.github.io/community-extensions/0.8",
+            "name": "Paperback Community Extensions (0.8)",
+            "version": "0.8",
+            "devId": "140415255741333504"
         }
     ]
 }
