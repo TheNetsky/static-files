@@ -162,11 +162,17 @@
             "version": "0.8",
             "devId": "140415255741333504"
         },
-                {
+        {
             "url": "https://thenetsky.github.io/extensions-generic-0.8/nepnep",
             "name": "Extensions Generic NepNep (0.8)",
             "version": "0.8",
             "devId": "220941835751784448"
+        },
+        {
+            "url": "https://waltersash.github.io/waltersashs-extensions/0.8",
+            "name": "WaltersAsh's Extensions (0.8)",
+            "version": "0.8",
+            "devId": "314676378014580737"
         }
     ]
 }
