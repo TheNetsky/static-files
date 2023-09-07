@@ -173,6 +173,24 @@
             "name": "WaltersAsh's Extensions (0.8)",
             "version": "0.8",
             "devId": "314676378014580737"
-        }
+        },
+        {
+            "url": "https://pandeynmn.github.io/extensions-foreign/0.8",
+            "name": "NmN's Foreign Extensions (0.8)",
+            "version": "0.8",
+            "devId": "432250512117596162"
+        },
+        {
+            "url": "https://pandeynmn.github.io/extensions-foreign/ninemanga-0.8",
+            "name": "NineManga Extensions (0.8)",
+            "version": "0.8",
+            "devId": "432250512117596162"
+        },
+                        {
+            "url": "https://pandeynmn.github.io/nmns-extensions/0.8",
+            "name": "NmN's Extensions (0.8)",
+            "version": "0.8",
+            "devId": "432250512117596162"
+        }        
     ]
 }
