@@ -191,6 +191,12 @@
             "name": "NmN's Extensions (0.8)",
             "version": "0.8",
             "devId": "432250512117596162"
-        }        
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic-0.8/mangacatalog",
+            "name": "Extensions Generic MangaCatalog (0.8)",
+            "version": "0.8",
+            "devId": "893869898093170708"
+        }
     ]
 }
