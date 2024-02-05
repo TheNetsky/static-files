@@ -197,6 +197,12 @@
             "name": "Extensions Generic MangaCatalog (0.8)",
             "version": "0.8",
             "devId": "893869898093170708"
+        },
+        {
+            "url": "https://kameiaa.github.io/kameia-extensions/0.8",
+            "name": "kameia Extensions (0.8)",
+            "version": "0.8",
+            "devId": "150873167689154560"
         }
     ]
 }
