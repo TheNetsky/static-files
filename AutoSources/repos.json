@@ -73,6 +73,12 @@
             "devId": "140415255741333504"
         },
         {
+            "url": "https://pandeynmn.github.io/nmns-extensions/main",
+            "name": "NmN's Extensions",
+            "version": "0.6",
+            "devId": "432250512117596162"
+        },
+        {
             "url": "https://pandeynmn.github.io/extensions-foreign/ninemanga",
             "name": "NineManga Extensions",
             "version": "0.6",
