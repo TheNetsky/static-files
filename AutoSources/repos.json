@@ -180,7 +180,7 @@
             "version": "0.8",
             "devId": "432250512117596162"
         },
-                        {
+        {
             "url": "https://pandeynmn.github.io/nmns-extensions/0.8",
             "name": "NmN's Extensions (0.8)",
             "version": "0.8",
@@ -197,6 +197,12 @@
             "name": "kameia Extensions (0.8)",
             "version": "0.8",
             "devId": "150873167689154560"
+        },
+        {
+            "url": "https://gabrielcwt.github.io/gabe-extensions/0.8",
+            "name": "Gabes's Extensions (0.8)",
+            "version": "0.8",
+            "devId": "208187218999771136"
         }
     ]
 }
