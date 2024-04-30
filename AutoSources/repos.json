@@ -203,6 +203,12 @@
             "name": "Gabes's Extensions (0.8)",
             "version": "0.8",
             "devId": "208187218999771136"
+        },
+        {
+            "url": "https://yvespa.github.io/webtoons-extensions/0.8",
+            "name": "Webtoons.com (0.8)",
+            "version": "0.8",
+            "devId": "1228377864148353117"
         }
     ]
 }
