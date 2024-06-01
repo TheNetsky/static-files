@@ -209,6 +209,12 @@
             "name": "Webtoons.com (0.8)",
             "version": "0.8",
             "devId": "1228377864148353117"
+        },
+        {
+            "url": "https://thenetsky.github.io/extensions-generic-0.8/hean",
+            "name": "Hean Generic (0.8)",
+            "version": "0.8",
+            "devId": "1228377864148353117"
         }
     ]
 }
