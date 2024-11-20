@@ -221,6 +221,12 @@
             "name": "Liliana Generic (0.8)",
             "version": "0.8",
             "devId": "306781014896803841"
+        },
+                {
+            "url": "https://ivanmatthew.github.io/ivans-paperback-extensions/paperback-0.8",
+            "name": "Paperback 0.8 Extensions",
+            "version": "0.8",
+            "devId": "698959068722626632"
         }
     ]
 }
