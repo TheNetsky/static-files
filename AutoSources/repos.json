@@ -163,12 +163,6 @@
             "devId": "220941835751784448"
         },
         {
-            "url": "https://waltersash.github.io/waltersashs-extensions/0.8",
-            "name": "WaltersAsh's Extensions (0.8)",
-            "version": "0.8",
-            "devId": "314676378014580737"
-        },
-        {
             "url": "https://pandeynmn.github.io/extensions-foreign/0.8",
             "name": "NmN's Foreign Extensions (0.8)",
             "version": "0.8",
@@ -222,7 +216,7 @@
             "version": "0.8",
             "devId": "306781014896803841"
         },
-                {
+        {
             "url": "https://ivanmatthew.github.io/ivans-paperback-extensions/paperback-0.8",
             "name": "Paperback 0.8 Extensions",
             "version": "0.8",
