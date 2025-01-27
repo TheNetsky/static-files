@@ -49,12 +49,6 @@
             "devId": "140415255741333504"
         },
         {
-            "url": "https://thenetsky.github.io/extensions-generic/nepnep",
-            "name": "Extensions NepNep (Netsky Fork)",
-            "version": "0.6",
-            "devId": "140415255741333504"
-        },
-        {
             "url": "https://thenetsky.github.io/extensions-generic/guya",
             "name": "Extensions Guya (Netsky Fork)",
             "version": "0.6",
