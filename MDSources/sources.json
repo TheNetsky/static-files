@@ -1,0 +1,228 @@
+{
+    "version": 0,
+    "sources": {
+        "toonily.com": {
+            "id": "toonily.com",
+            "domain": "https://toonily.com",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "webtoon"
+                },
+                "selector": {
+                    "searchDirectoryListing": "$('div.page-item-detail.manga')",
+                    "mangaPageAltTitles": "$('h5:contains(Alt Name(s))').parent().next()"
+                }
+            }
+        },
+        "manga18sx.com": {
+            "id": "manga18fx.com",
+            "domain": "https://manga18fx.com",
+            "alias": [
+                "https://manga18sx.com",
+                "https://manga18fx.com"
+            ],
+            "enabled": true,
+            "override": {
+                "request": {
+                    "searchPath": "search?q="
+                },
+                "selector": {
+                    "searchDirectoryListing": "$('div.listupd > div.page-item')",
+                    "chapterListItem": "$('li.a-h')",
+                    "homepageDirectoryListing": "$('div.listupd > div.page-item')"
+                }
+            }
+        },
+        "manhwa18.cc": {
+            "id": "manhwa18.cc",
+            "domain": "https://manhwa18.cc",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "webtoon",
+                    "searchPath": "search?q="
+                },
+                "selector": {
+                    "searchDirectoryListing": "$('div.manga-lists > div.manga-item')",
+                    "chapterListItem": "$('li.a-h')",
+                    "chapterPageImage": "$('div.read-content > img')",
+                    "homepageDirectoryListing": "$('div.manga-lists > div.manga-item')"
+                }
+            }
+        },
+        "toongod.org": {
+            "id": "toongod.org",
+            "domain": "https://www.toongod.org",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "webtoon"
+                },
+                "selector": {
+                    "searchDirectoryListing": "$('div.row.c-tabs-item__content')"
+                }
+            }
+        },
+        "webtoon.xyz": {
+            "id": "webtoon.xyz",
+            "domain": "https://www.webtoon.xyz",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "read"
+                },
+                "selector": {
+                    "searchDirectoryListing": "$('div.row.c-tabs-item__content')"
+                }
+            }
+        },
+        "manhuaus.com": {
+            "id": "manhuaus.com",
+            "domain": "https://manhuaus.com",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "hiperdex.com": {
+            "id": "hiperdex.com",
+            "domain": "https://hiperdex.com",
+            "alias": [
+                "https://hiperdex.com",
+                "https://hiperdex.xyz"
+            ],
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "coffeemanga.io": {
+            "id": "coffeemanga.io",
+            "domain": "https://coffeemanga.io",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "novelmic.com": {
+            "id": "novelmic.com",
+            "domain": "https://novelmic.com",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "comic"
+                },
+                "selector": {}
+            }
+        },
+        "manhuafast.com": {
+            "id": "manhuafast.com",
+            "domain": "https://manhuafast.com",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "mangaclash.com": {
+            "id": "mangaclash.com",
+            "domain": "https://toonclash.com",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "lhtranslation.net": {
+            "id": "lhtranslation.net",
+            "domain": "https://lhtranslation.net",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "mangasushi.org": {
+            "id": "mangasushi.org",
+            "domain": "https://mangasushi.org",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "onlypornhwa.com": {
+            "id": "onlypornhwa.com",
+            "domain": "https://onlypornhwa.com",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "webtoon"
+                },
+                "selector": {}
+            }
+        },
+        "mangaread.org": {
+            "id": "mangaread.com",
+            "domain": "https://www.mangaread.org",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "mangadistrict.com": {
+            "id": "mangadistrict.com",
+            "domain": "https://mangadistrict.com",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "directoryPath": "read-scan"
+                },
+                "selector": {}
+            }
+        },
+        "theblank.net": {
+            "id": "theblank.net",
+            "domain": "https://theblank.net",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "harimanga.com": {
+            "id": "harimanga.com",
+            "domain": "https://harimanga.me",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "manhwaclan.com": {
+            "id": "manhwaclan.com",
+            "domain": "https://manhwaclan.com",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {}
+            }
+        },
+        "manhwaden.com": {
+            "id": "manhwaclan.com",
+            "domain": "https://www.manhwaden.com",
+            "enabled": true,
+            "override": {
+                "request": {},
+                "selector": {
+                    "chapterPageImage": "$('div.text-left > p > img')"
+                }
+            }
+        }
+    }
+}
