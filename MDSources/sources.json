@@ -1,5 +1,4 @@
 {
-    "version": 0,
     "sources": {
         "toonily.com": {
             "id": "toonily.com",
@@ -7,6 +6,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": true,
                     "directoryPath": "webtoon"
                 },
                 "selector": {
@@ -25,6 +25,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": false,
                     "searchPath": "search?q="
                 },
                 "selector": {
@@ -40,6 +41,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": false,
                     "directoryPath": "webtoon",
                     "searchPath": "search?q="
                 },
@@ -57,6 +59,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": false,
                     "directoryPath": "webtoon"
                 },
                 "selector": {
@@ -70,6 +73,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": true,
                     "directoryPath": "read"
                 },
                 "selector": {
@@ -82,7 +86,9 @@
             "domain": "https://manhuaus.com",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -95,7 +101,9 @@
             ],
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -104,7 +112,9 @@
             "domain": "https://coffeemanga.io",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -114,6 +124,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": true,
                     "directoryPath": "comic"
                 },
                 "selector": {}
@@ -124,7 +135,9 @@
             "domain": "https://manhuafast.com",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -133,7 +146,9 @@
             "domain": "https://toonclash.com",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -142,7 +157,9 @@
             "domain": "https://lhtranslation.net",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -151,17 +168,8 @@
             "domain": "https://mangasushi.org",
             "enabled": true,
             "override": {
-                "request": {},
-                "selector": {}
-            }
-        },
-        "onlypornhwa.com": {
-            "id": "onlypornhwa.com",
-            "domain": "https://onlypornhwa.com",
-            "enabled": true,
-            "override": {
                 "request": {
-                    "directoryPath": "webtoon"
+                    "usePostId ": true
                 },
                 "selector": {}
             }
@@ -171,7 +179,9 @@
             "domain": "https://www.mangaread.org",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -181,6 +191,7 @@
             "enabled": true,
             "override": {
                 "request": {
+                    "usePostId ": true,
                     "directoryPath": "read-scan"
                 },
                 "selector": {}
@@ -191,7 +202,9 @@
             "domain": "https://theblank.net",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -200,7 +213,9 @@
             "domain": "https://harimanga.me",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
@@ -209,12 +224,14 @@
             "domain": "https://manhwaclan.com",
             "enabled": true,
             "override": {
-                "request": {},
+                "request": {
+                    "usePostId ": true
+                },
                 "selector": {}
             }
         },
         "manhwaden.com": {
-            "id": "manhwaclan.com",
+            "id": "manhwaden.com",
             "domain": "https://www.manhwaden.com",
             "enabled": true,
             "override": {
