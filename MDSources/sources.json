@@ -3,6 +3,7 @@
         "toonily.com": {
             "id": "toonily.com",
             "domain": "https://toonily.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -18,6 +19,7 @@
         "manga18sx.com": {
             "id": "manga18fx.com",
             "domain": "https://manga18fx.com",
+            "adapter": "madara",
             "alias": [
                 "https://manga18sx.com",
                 "https://manga18fx.com"
@@ -38,6 +40,7 @@
         "manhwa18.cc": {
             "id": "manhwa18.cc",
             "domain": "https://manhwa18.cc",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -56,6 +59,7 @@
         "toongod.org": {
             "id": "toongod.org",
             "domain": "https://www.toongod.org",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -70,6 +74,7 @@
         "webtoon.xyz": {
             "id": "webtoon.xyz",
             "domain": "https://www.webtoon.xyz",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -84,6 +89,7 @@
         "manhuaus.com": {
             "id": "manhuaus.com",
             "domain": "https://manhuaus.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -95,6 +101,7 @@
         "hiperdex.com": {
             "id": "hiperdex.com",
             "domain": "https://hiperdex.com",
+            "adapter": "madara",
             "alias": [
                 "https://hiperdex.com",
                 "https://hiperdex.xyz"
@@ -110,6 +117,7 @@
         "coffeemanga.io": {
             "id": "coffeemanga.io",
             "domain": "https://coffeemanga.io",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -121,6 +129,7 @@
         "novelmic.com": {
             "id": "novelmic.com",
             "domain": "https://novelmic.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -133,6 +142,7 @@
         "manhuafast.com": {
             "id": "manhuafast.com",
             "domain": "https://manhuafast.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -144,6 +154,7 @@
         "mangaclash.com": {
             "id": "mangaclash.com",
             "domain": "https://toonclash.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -155,6 +166,7 @@
         "lhtranslation.net": {
             "id": "lhtranslation.net",
             "domain": "https://lhtranslation.net",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -166,6 +178,7 @@
         "mangasushi.org": {
             "id": "mangasushi.org",
             "domain": "https://mangasushi.org",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -177,6 +190,7 @@
         "mangaread.org": {
             "id": "mangaread.com",
             "domain": "https://www.mangaread.org",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -188,6 +202,7 @@
         "mangadistrict.com": {
             "id": "mangadistrict.com",
             "domain": "https://mangadistrict.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -200,6 +215,7 @@
         "theblank.net": {
             "id": "theblank.net",
             "domain": "https://theblank.net",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -211,6 +227,7 @@
         "harimanga.com": {
             "id": "harimanga.com",
             "domain": "https://harimanga.me",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -222,6 +239,7 @@
         "manhwaclan.com": {
             "id": "manhwaclan.com",
             "domain": "https://manhwaclan.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
@@ -233,6 +251,7 @@
         "manhwaden.com": {
             "id": "manhwaden.com",
             "domain": "https://www.manhwaden.com",
+            "adapter": "madara",
             "enabled": true,
             "override": {
                 "request": {
