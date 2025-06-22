@@ -207,7 +207,7 @@
             "override": {
                 "request": {
                     "usePostId": true,
-                    "directoryPath": "read-scan"
+                    "directoryPath": "title"
                 },
                 "selector": {}
             }
