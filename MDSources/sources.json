@@ -67,7 +67,7 @@
             "enabled": true,
             "override": {
                 "request": {
-                    "usePostId": false,
+                    "usePostId": true,
                     "directoryPath": "webtoon"
                 },
                 "selector": {
