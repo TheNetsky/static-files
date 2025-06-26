@@ -29,8 +29,8 @@
                 "request": {
                     "usePostId": false,
                     "searchPath": "search?q=",
-                    "directoryPath": "manga-genre/manhwa",
-                    "directoryParam": "?orderby=latest"
+                    "directoryListingPath": "manga-genre/manhwa",
+                    "directoryListingParam": "?orderby=latest"
                 },
                 "selector": {
                     "searchDirectoryListing": "$('div.listupd > div.page-item')",
@@ -49,8 +49,8 @@
                     "usePostId": false,
                     "directoryPath": "webtoon",
                     "searchPath": "search?q=",
-                    "directoryPath": "webtoons",
-                    "directoryParam": "?orderby=latest"
+                    "directoryListingPath": "webtoons",
+                    "directoryListingParam": "?orderby=latest"
                 },
                 "selector": {
                     "searchDirectoryListing": "$('div.manga-lists > div.manga-item')",
