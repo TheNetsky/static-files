@@ -69,7 +69,8 @@
             "override": {
                 "request": {
                     "usePostId": true,
-                    "directoryPath": "webtoon"
+                    "directoryPath": "webtoon",
+                    "directoryListingPath": "webtoons"
                 },
                 "selector": {
                     "searchDirectoryListing": "$('div.row.c-tabs-item__content')"
