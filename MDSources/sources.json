@@ -215,7 +215,9 @@
                     "usePostId": true,
                     "directoryPath": "title"
                 },
-                "selector": {}
+                "selector": {
+                    "searchDirectoryListing": "$('div.page-item-detail.manga')"
+                }
             }
         },
         "theblank.net": {
