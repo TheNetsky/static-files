@@ -36,7 +36,7 @@
                 "selector": {
                     "searchDirectoryListing": "$('div.listupd > div.page-item')",
                     "chapterListItem": "$('li.a-h')",
-                    "homepageDirectoryListing": "$('div.listupd > div.page-item')"
+                    "directoryListingItem": "$('div.listupd > div.page-item')"
                 }
             }
         },
@@ -57,7 +57,7 @@
                     "searchDirectoryListing": "$('div.manga-lists > div.manga-item')",
                     "chapterListItem": "$('li.a-h')",
                     "chapterPageImage": "$('div.read-content > img')",
-                    "homepageDirectoryListing": "$('div.manga-lists > div.manga-item')"
+                    "directoryListingItem": "$('div.manga-lists > div.manga-item')"
                 }
             }
         },
