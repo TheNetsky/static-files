@@ -373,7 +373,7 @@
                     "mangaPageAuthor": "$('div.info_label:contains(Author)').next()",
                     "mangaPageArtist": "$('div.info_label:contains(Artist)').next()",
                     "mangaPageDescription": "$('div.detail_reviewContent')",
-                    "mangaPageThumbnail": "$('div.detail_avatar')",
+                    "mangaPageThumbnail": "$('div.detail_avatar img').first()",
                     "chapterListItem": "$('div.chapter_box .item')",
                     "chapterPageImage": "$('div#chapter_boxImages img')"
                 }
