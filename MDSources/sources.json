@@ -335,6 +335,18 @@
         },
         "selector": {}
       }
+    },
+    "likemanga.in": {
+      "id": "likemanga.in",
+      "domain": "https://likemanga.in",
+      "adapter": "madara",
+      "enabled": true,
+      "override": {
+        "request": {
+          "usePostId": true
+        },
+        "selector": {}
+      }
     }
   }
 }
