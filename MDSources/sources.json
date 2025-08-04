@@ -347,36 +347,36 @@
         },
         "selector": {}
       }
-    }
-  },
-  "manga18.club": {
-    "id": "manga18.club",
-    "domain": "https://manga18.club",
-    "adapter": "madara",
-    "enabled": true,
-    "override": {
-      "request": {
-        "usePostId": false,
-        "directoryPath": "manhwa",
-        "searchPath": "list-manga?search=",
-        "directoryListingPath": "list-manga",
-        "directoryListingParam": "?order_by=lastest",
-        "searchParams": ""
-      },
-      "selector": {
-        "directoryListingItem": "$('div.row div.story_item')",
-        "directoryItemLatestChapter": "$('.chapter_count > a')",
-        "searchDirectoryListing": "$('div.row div.story_item')",
-        "searchItemLatestChapter": "$('.chapter_count > a')",
-        "mangaPageStatus": "$('div.info_label:contains(Status)').next()",
-        "mangaPageTitle": "$('div.detail_name')",
-        "mangaPageAltTitles": "$('div.info_label:contains(Other name)').next()",
-        "mangaPageAuthor": "$('div.info_label:contains(Author)').next()",
-        "mangaPageArtist": "$('div.info_label:contains(Artist)').next()",
-        "mangaPageDescription": "$('div.detail_reviewContent')",
-        "mangaPageThumbnail": "$('div.detail_avatar')",
-        "chapterListItem": "$('div.chapter_box .item')",
-        "chapterPageImage": "$('div#chapter_boxImages img')"
+    },
+    "manga18.club": {
+      "id": "manga18.club",
+      "domain": "https://manga18.club",
+      "adapter": "madara",
+      "enabled": true,
+      "override": {
+        "request": {
+          "usePostId": false,
+          "directoryPath": "manhwa",
+          "searchPath": "list-manga?search=",
+          "directoryListingPath": "list-manga",
+          "directoryListingParam": "?order_by=lastest",
+          "searchParams": ""
+        },
+        "selector": {
+          "directoryListingItem": "$('div.row div.story_item')",
+          "directoryItemLatestChapter": "$('.chapter_count > a')",
+          "searchDirectoryListing": "$('div.row div.story_item')",
+          "searchItemLatestChapter": "$('.chapter_count > a')",
+          "mangaPageStatus": "$('div.info_label:contains(Status)').next()",
+          "mangaPageTitle": "$('div.detail_name')",
+          "mangaPageAltTitles": "$('div.info_label:contains(Other name)').next()",
+          "mangaPageAuthor": "$('div.info_label:contains(Author)').next()",
+          "mangaPageArtist": "$('div.info_label:contains(Artist)').next()",
+          "mangaPageDescription": "$('div.detail_reviewContent')",
+          "mangaPageThumbnail": "$('div.detail_avatar')",
+          "chapterListItem": "$('div.chapter_box .item')",
+          "chapterPageImage": "$('div#chapter_boxImages img')"
+        }
       }
     }
   }
