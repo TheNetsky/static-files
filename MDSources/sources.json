@@ -12,8 +12,8 @@
                     "directoryListingPath": "webtoons"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.page-item-detail.manga')",
-                    "mangaPageAltTitles": "$('h5:contains(Alt Name(s))').parent().next()"
+                    "searchDirectoryListingCheerio": "$('div.page-item-detail.manga')",
+                    "mangaPageAltTitlesCheerio": "$('h5:contains(Alt Name(s))').parent().next()"
                 }
             }
         },
@@ -34,9 +34,9 @@
                     "directoryListingParam": "?orderby=latest"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.listupd > div.page-item')",
-                    "chapterListItem": "$('li.a-h')",
-                    "directoryListingItem": "$('div.listupd > div.page-item')"
+                    "searchDirectoryListingCheerio": "$('div.listupd > div.page-item')",
+                    "chapterListItemCheerio": "$('li.a-h')",
+                    "directoryListingItemCheerio": "$('div.listupd > div.page-item')"
                 }
             }
         },
@@ -54,10 +54,10 @@
                     "directoryListingParam": "?orderby=latest"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.manga-lists > div.manga-item')",
-                    "chapterListItem": "$('li.a-h')",
-                    "chapterPageImage": "$('div.read-content > img')",
-                    "directoryListingItem": "$('div.manga-lists > div.manga-item')"
+                    "searchDirectoryListingCheerio": "$('div.manga-lists > div.manga-item')",
+                    "chapterListItemCheerio": "$('li.a-h')",
+                    "chapterPageImageCheerio": "$('div.read-content > img')",
+                    "directoryListingItemCheerio": "$('div.manga-lists > div.manga-item')"
                 }
             }
         },
@@ -73,7 +73,7 @@
                     "directoryListingPath": "webtoons"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.row.c-tabs-item__content')"
+                    "searchDirectoryListingCheerio": "$('div.row.c-tabs-item__content')"
                 }
             }
         },
@@ -89,7 +89,7 @@
                     "directoryListingPath": "read"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.row.c-tabs-item__content')"
+                    "searchDirectoryListingCheerio": "$('div.row.c-tabs-item__content')"
                 }
             }
         },
@@ -218,7 +218,7 @@
                     "directoryListingPath": "title"
                 },
                 "selector": {
-                    "searchDirectoryListing": "$('div.page-item-detail.manga')"
+                    "searchDirectoryListingCheerio": "$('div.page-item-detail.manga')"
                 }
             }
         },
@@ -268,7 +268,7 @@
                     "usePostId": true
                 },
                 "selector": {
-                    "chapterPageImage": "$('div.text-left > p > img')"
+                    "chapterPageImageCheerio": "$('div.text-left > p > img')"
                 }
             }
         },
@@ -363,19 +363,19 @@
                     "searchParams": ""
                 },
                 "selector": {
-                    "directoryListingItem": "$('div.row div.story_item')",
-                    "directoryItemLatestChapter": "$('.chapter_count > a')",
-                    "searchDirectoryListing": "$('div.row div.story_item')",
-                    "searchItemLatestChapter": "$('.chapter_count > a')",
-                    "mangaPageStatus": "$('div.info_label:contains(Status)').next()",
-                    "mangaPageTitle": "$('div.detail_name')",
-                    "mangaPageAltTitles": "$('div.info_label:contains(Other name)').next()",
-                    "mangaPageAuthor": "$('div.info_label:contains(Author)').next()",
-                    "mangaPageArtist": "$('div.info_label:contains(Artist)').next()",
-                    "mangaPageDescription": "$('div.detail_reviewContent')",
-                    "mangaPageThumbnail": "$('div.detail_avatar img').first()",
-                    "chapterListItem": "$('div.chapter_box .item')",
-                    "chapterPageImage": "$('div#chapter_boxImages img')"
+                    "directoryListingItemCheerio": "$('div.row div.story_item')",
+                    "directoryItemLatestChapterSelector": ".chapter_count > a",
+                    "searchDirectoryListingCheerio": "$('div.row div.story_item')",
+                    "searchItemLatestChapterSelector": ".chapter_count > a",
+                    "mangaPageStatusCheerio": "$('div.info_label:contains(Status)').next()",
+                    "mangaPageTitleCheerio": "$('div.detail_name')",
+                    "mangaPageAltTitlesCheerio": "$('div.info_label:contains(Other name)').next()",
+                    "mangaPageAuthorCheerio": "$('div.info_label:contains(Author)').next()",
+                    "mangaPageArtistCheerio": "$('div.info_label:contains(Artist)').next()",
+                    "mangaPageDescriptionCheerio": "$('div.detail_reviewContent')",
+                    "mangaPageThumbnailCheerio": "$('div.detail_avatar img').first()",
+                    "chapterListItemCheerio": "$('div.chapter_box .item')",
+                    "chapterPageImageCheerio": "$('div#chapter_boxImages img')"
                 }
             }
         }
