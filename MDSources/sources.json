@@ -30,8 +30,8 @@
                 "request": {
                     "usePostId": false,
                     "searchPath": "search?q=",
-                    "directoryListingPath": "manga-genre/manhwa",
-                    "directoryListingParam": "?orderby=latest"
+                    "directoryListingPath": "",
+                    "directoryListingParam": ""
                 },
                 "selector": {
                     "searchDirectoryListingCheerio": "$('div.listupd > div.page-item')",
