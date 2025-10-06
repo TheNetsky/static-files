@@ -378,6 +378,22 @@
                     "chapterPageImageCheerio": "$('div#chapter_boxImages img')"
                 }
             }
+        },
+        "manytoon.com": {
+            "id": "manytoon.com",
+            "domain": "https://manytoon.com",
+            "adapter": "madara",
+            "enabled": true,
+            "override": {
+                "request": {
+                    "usePostId": true,
+                    "directoryPath": "comic",
+                    "directoryListingPath": "comic"
+                },
+                "selector": {
+                    "searchDirectoryListingCheerio": "$('div.page-item-detail.manga')"
+                }
+            }
         }
     }
 }
