@@ -29,9 +29,7 @@
             "override": {
                 "request": {
                     "usePostId": false,
-                    "searchPath": "search?q=",
-                    "directoryListingPath": "",
-                    "directoryListingParam": ""
+                    "searchPath": "search?q="
                 },
                 "selector": {
                     "searchDirectoryListingCheerio": "$('div.listupd > div.page-item')",
