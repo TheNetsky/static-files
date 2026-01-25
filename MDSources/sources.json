@@ -9,6 +9,7 @@
                 "request": {
                     "usePostId": true,
                     "directoryPath": "webtoon",
+                    "searchPath": "search/",
                     "directoryListingPath": "webtoons"
                 },
                 "selector": {
