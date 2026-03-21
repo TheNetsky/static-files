@@ -214,8 +214,8 @@
             "override": {
                 "request": {
                     "usePostId": true,
-                    "directoryPath": "title",
-                    "directoryListingPath": "title"
+                    "directoryPath": "series",
+                    "directoryListingPath": "series"
                 },
                 "selector": {
                     "searchDirectoryListingCheerio": "$('div.page-item-detail.manga')"
