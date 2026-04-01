@@ -338,7 +338,7 @@
         },
         "likemanga.in": {
             "id": "likemanga.in",
-            "domain": "https://likemanga.in",
+            "domain": "https://mangayy.org",
             "adapter": "madara",
             "enabled": true,
             "override": {
